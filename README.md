@@ -14,8 +14,8 @@ Name:<br>
 <input type="text" name="name"><br>
 E-mail:<br>
 <input type="text" name="mail"><br>
-Comment:<br>
-<input type="text" name="What do you need help with?" size="50"><br><br>
+What do you need help with?<br>
+<input type="text" name="comment" size="50"><br><br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
 </form>
