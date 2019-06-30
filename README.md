@@ -4,7 +4,7 @@ Are you battling an Internet or network problem?  **You need allies!**
 
 This site is under construction. Please contact us and let us know what you'd like help with!
 
-Email:  <a href = "mailto:help@net-allies.com?subject = Help with my Internet/network problem! = Message">
+<a href = "mailto:help@net-allies.com?subject = Help with my Internet/network problem! = Message">
 help@net-allies.com
 </a>
 
