@@ -4,7 +4,6 @@ Are you battling an Internet or network problem?  **You need allies!**
 
 This site is under construction. Please contact us and let us know what you'd like help with!
 
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -16,7 +15,7 @@ Name:<br>
 E-mail:<br>
 <input type="text" name="mail"><br>
 Comment:<br>
-<input type="text" name="comment" size="50"><br><br>
+<input type="text" name="What do you need help with?" size="50"><br><br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
 </form>
