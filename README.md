@@ -2,13 +2,13 @@
 
 Are you battling an Internet or network problem?  **You need allies!**
 
-This site is under construction. Please contact us at info@net-allies.com
+This site is under construction. Please contact us and let us know what you'd like help with!
 
 <!DOCTYPE html>
 <html>
 <body>
 
-<h2>Send e-mail to someone@example.com:</h2>
+<h2>Send e-mail to info@net-allies.com:</h2>
 
 <form action="mailto:info@net-allies.com" method="post" enctype="text/plain">
 Name:<br>
